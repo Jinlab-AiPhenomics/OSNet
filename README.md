@@ -14,9 +14,9 @@ Ruinan Zhang<sup>1,#</sup>, Yuanhao Zhang<sup>1,#</sup>, Shichao Jin<sup>1,*</su
 
 4 Institute of Remote Sensing and Geographic Information System, School of Earth and Space Sciences, Peking University, Beijing 100871, China
 
-**#** These authors contributed equally.
+\# These authors contributed equally.
 
-***** Corresponding author
+\* Corresponding author
 
 Shichao Jin, Associate professor 
 
