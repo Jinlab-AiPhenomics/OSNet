@@ -1,4 +1,4 @@
-# 🌾 OSNet
+# OSNet
 
 An oriented instance segmentation network for breeding plot extraction from UAV RGB imagery.
 
@@ -28,31 +28,25 @@ Email: [jinshichao1993@gmail.com](mailto:jinshichao1993@gmail.com); Tel: +86 025
 
 Address: No. 666, Binjiang Avenue, Jiangbei New District, Nanjing 210095, China
 
----
-
-
-
 ## Installation
 
 For installation instructions, please refer to [install.md](https://github.com/Jinlab-AiPhenomics/OSNet/tree/main/docs/install.md).
 
-## Dataset Construction
+## Usage
+
+### Dataset Construction
 
 Please refer to [dataset.md](https://github.com/Jinlab-AiPhenomics/OSNet/tree/main/docs/dataset.md) for details on dataset construction.
 
 > 📦 A toy dataset has been constructed for testing. You can [click here](https://pan.quark.cn/s/d105eba9bf16) to download it.
 
-## Training and Testing
+### Training and Testing
 
 For training and testing procedures, please refer to [Train and test.md](https://github.com/Jinlab-AiPhenomics/OSNet/tree/main/docs/train%20and%20test.md).
 
-## Visualization
+### Visualization
 
 For visualization techniques, please refer to [visualization.md](https://github.com/Jinlab-AiPhenomics/OSNet/tree/main/docs/visualization.md).
-
----
-
-
 
 ## Public Datasets
 
@@ -65,11 +59,9 @@ This study has constructed four datasets dedicated to various aspects of network
 3. **RealRice2023** (size: ~117 GB)
    - Part1: Uploading
 
-![Datasets](.\img\datasets.jpg)
+## Thanks
 
----
-
-
+- [mmdetection](https://github.com/open-mmlab/mmdetection)
 
 ## License
 
