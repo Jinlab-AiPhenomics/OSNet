@@ -1,6 +1,6 @@
-# OSNet
+# 🌾 OSNet
 
-An oriented instance segmentation network of breeding plot extraction from UAV RGB imagery
+An oriented instance segmentation network for breeding plot extraction from UAV RGB imagery.
 
 ## Overview
 
@@ -16,7 +16,7 @@ Ruinan Zhang<sup>1,#</sup>, Yuanhao Zhang<sup>1,#</sup>, Shichao Jin<sup>1,*</su
 
 **#** These authors contributed equally.
 
-***Corresponding author**
+***** Corresponding author
 
 Shichao Jin, Associate professor 
 
@@ -28,32 +28,49 @@ Email: [jinshichao1993@gmail.com](mailto:jinshichao1993@gmail.com); Tel: +86 025
 
 Address: No. 666, Binjiang Avenue, Jiangbei New District, Nanjing 210095, China
 
+---
+
+
+
 ## Installation
 
-Please refer to [install.md](https://github.com/Jinlab-AiPhenomics/OSNet/tree/main/docs/install.md) for installation
-## Dataset construction
-Please refer to [dataset.md](https://github.com/Jinlab-AiPhenomics/OSNet/tree/main/docs/dataset.md) for dataset construction.
+For installation instructions, please refer to [install.md](https://github.com/Jinlab-AiPhenomics/OSNet/tree/main/docs/install.md).
 
-> A toy dataset was constructed for testing, you can [click here](https://pan.quark.cn/s/d105eba9bf16) to download it.
+## Dataset Construction
+
+Please refer to [dataset.md](https://github.com/Jinlab-AiPhenomics/OSNet/tree/main/docs/dataset.md) for details on dataset construction.
+
+> 📦 A toy dataset has been constructed for testing. You can [click here](https://pan.quark.cn/s/d105eba9bf16) to download it.
 
 ## Training and Testing
-Please refer to [Train and test.md](https://github.com/Jinlab-AiPhenomics/OSNet/tree/main/docs/train%20and%20test.md).
+
+For training and testing procedures, please refer to [Train and test.md](https://github.com/Jinlab-AiPhenomics/OSNet/tree/main/docs/train%20and%20test.md).
+
 ## Visualization
-Please refer to [visualization.md](https://github.com/Jinlab-AiPhenomics/OSNet/tree/main/docs/visualization.md).
 
-## Public datasets
+For visualization techniques, please refer to [visualization.md](https://github.com/Jinlab-AiPhenomics/OSNet/tree/main/docs/visualization.md).
 
-This study constructed four datasets dedicated to network development, robustness verification, transferability assessment, and phenotypic trait extraction, respectively.  Some of the datasets are open-source; you can [click here](https://pan.quark.cn/s/d105eba9bf16) to download.
+---
 
-> 1. RealWheat2021 (size: ~230 GB)
->    - Part1: Uploading
-> 2. RealWheat2023 (size: ~117 GB)
->    - Part1: Uploading
-> 3. RealRice2023 (size: ~117 GB)
->    - Part1: Uploading
 
-![image-20241118224429739](.\img\datasets.jpg)
+
+## Public Datasets
+
+This study has constructed four datasets dedicated to various aspects of network development, robustness verification, transferability assessment, and phenotypic trait extraction. Some datasets are open-source; you can download them using the links below:
+
+1. **RealWheat2021** (size: ~230 GB)
+   - Part1: Uploading
+2. **RealWheat2023** (size: ~117 GB)
+   - Part1: Uploading
+3. **RealRice2023** (size: ~117 GB)
+   - Part1: Uploading
+
+![Datasets](.\img\datasets.jpg)
+
+---
+
+
 
 ## License
 
-[GPL-3.0](LICENSE) © OSNet
+This project is licensed under the [GPL-3.0](LICENSE) License © OSNet
