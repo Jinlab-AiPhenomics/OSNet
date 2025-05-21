@@ -52,7 +52,7 @@ For installation instructions, please refer to [install.md](https://github.com/J
 
 Please refer to [dataset.md](https://github.com/Jinlab-AiPhenomics/OSNet/tree/main/docs/dataset.md) for details on dataset construction.
 
-> 📦 A toy dataset has been constructed for testing. You can [click here](https://pan.quark.cn/s/d105eba9bf16) to download it.
+> 📦 A toy dataset has been constructed for testing. You can [click here](https://drive.google.com/drive/folders/1YAIbfmn8SOGzfYTR2a2BFSEeOdmLew1R) to download it.
 
 ### Training and Testing
 
